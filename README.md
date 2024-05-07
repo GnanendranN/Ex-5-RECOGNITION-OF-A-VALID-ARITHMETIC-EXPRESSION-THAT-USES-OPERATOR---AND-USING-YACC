@@ -1,7 +1,7 @@
 # Ex. No : 5
 # RECOGNITION OF A VALID ARITHMETIC EXPRESSION THAT USES
-# Register Number : 212223240037
-# Date : 07/03/2024
+## Register Number : 212223240037
+## Date : 07/03/2024
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
